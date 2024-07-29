@@ -1,14 +1,42 @@
-This is the instructions for setting up this safe popup on all .html .js .php pages of crypto sites your running vulnerbility analysis on. 
+ Welcome to the MadBrikies Repos and Knowledge base!
 
-Use the exploit for educational purpose live as per your contract to setup this popup.
-setting up this safe popup on all .html .js .php pages of crypto sites your running vulnerbility analysis on. 
-This will be easy.
+Donate to us for more Blockchain development! 
 
-Just download the files.zip from https://github.com/madbrikies/madbrikies/blob/main/files.zip
-Now extract the files.zip into the root directory make sure it has correct permissions so the next steps work without issue. 
+BTC address : bc1q4lvm6vg838vfpjehka32ulvsw7wpjkd29h608y
+ETH address : 0x4C5C1dc42FA0aee792AC98ac333EEAf3c06F51a0
+SOL address : 5BT1ymdstmdWp359fafsuqCoeoJLW16uyZfzwWzjmLjt
+LTC address : LVLeBCQnbNk6ragCSUQUd3VhsH45XNKN4R
+XMR address : 45kMUzi6sSq3cZzFvFJZDqAVQfkGBgg9Z7oTjKsJJh1HVGmQDNWKUsMVhy3upFHM4BB6GfUa6oNcNejZw6H7373dJATPAjD
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀
+⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠟⠿⠿⡿⠀⢰⣿⠁⢈⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀
+⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣤⣄⠀⠀⠀⠈⠉⠀⠸⠿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⢠⣶⣶⣤⡀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⡆
+⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠼⣿⣿⡿⠃⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢀⣀⣀⠀⠀⠀⠀⢴⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢿⣿⣿⣿⣿⣿⣿⣿⢿⣿⠁⠀⠀⣼⣿⣿⣿⣦⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⡿
+⠸⣿⣿⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠛⠛⠿⠟⠋⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣤⡄⠀⣀⣀⣀⣀⣠⣾⣿⣿⣿⣿⣿⣿⣿⡟⠀
+⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣄⣰⣿⠁⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀
+⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⢿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
 
+[ Build with our account just make donations if you earn $100 make sure to donate to our donation address above 25% so we can keep these servers up! ]
 
-Paste this on all .html .js .php pages <script charset="UTF-8" type="text/javascript" src="./81ba74da-d980-47c1-88f4-f798670ba089.js"></script> before your head tag. Now add the class interact-button
-<button class="style interact-button"> Connect Wallet</button>
+create a new repository on the command line
 
-Confirm that when you visit your site now and click anywhere a popup occurs for wallet connect.
+echo "# a101al00991" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/madbrikies/a101al00991.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/madbrikies/a101al00991.git
+git branch -M main
+git push -u origin main
